@@ -77,4 +77,4 @@ root5
 
 
 
-[lorem ipsum][
+[lorem ipsum](https://app.patika.dev/courses/veri-yapilari-ve-algoritmalar/binary-search-tree-proje)
